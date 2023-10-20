@@ -5,7 +5,8 @@
 [![Gmail](https://img.shields.io/badge/-chanda.leo00@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chanda.leo00@gmail.com)
 
 <!--Introduction -->
-I'm a **Software Engineer** with 3 years of experience from India.
+I'm a **Software Engineer** having 3 years of experience, from India. :)
+
 
 ---
 
@@ -22,3 +23,4 @@ I'm a **Software Engineer** with 3 years of experience from India.
 <code><a href="https://reactjs.org/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react logo" /></a></code>
 <code><a href="https://www.mongodb.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb logo" /></a></code>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshchandra10&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
