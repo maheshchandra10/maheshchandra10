@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-chanda.leo00@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chanda.leo00@gmail.com)
 
 <!--Introduction -->
-I'm a **Software Engineer** having 3 years of experience, from India. :)
+I'm a **Software Engineer** having 3 years of experience, from India.
 
 
 ---
