@@ -2,10 +2,10 @@
 # Greetings, I'm Mahesh! :wave:
 
 [![Linkedin](https://img.shields.io/badge/-maheshchandra10-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maheshchandra10/)
-[![Gmail](https://img.shields.io/badge/-chanda.leo00@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:chanda.leo00@gmail.com)
+[![Gmail](https://img.shields.io/badge/-maheshchandra7378@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maheshchandra7378@gmail.com)
 
 <!--Introduction -->
-I'm a **Software Engineer** having 3 years of experience, from India.
+I'm a **Software Engineer** having 5+ years of experience, from India.
 
 
 ---
@@ -20,7 +20,7 @@ I'm a **Software Engineer** having 3 years of experience, from India.
 
 ### Skills I am currently Learning
 
-<code><a href="https://reactjs.org/"><img height="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react logo" /></a></code>
+<code><a href="https://reactjs.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react logo" /></a></code>
 <code><a href="https://www.mongodb.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb logo" /></a></code>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshchandra10&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
