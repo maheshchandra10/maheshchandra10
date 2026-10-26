@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/-maheshchandra7378@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maheshchandra7378@gmail.com)
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-2ea44f?style=flat)
-![Available from](https://img.shields.io/badge/Available%20from-December,%202026-orange?style=flat)
+![Available from](https://img.shields.io/badge/Available%20from-December%202026-orange?style=flat)
 
 🔎 **Open to new opportunities** · Senior Full Stack Developer (Angular / Node.js / TypeScript / PostgreSQL) · Bengaluru, hybrid / remote
 
@@ -32,13 +32,13 @@ I'm a **Senior Full Stack Developer at Accenture** (Bengaluru, India) with 6 yea
 <!-- Looking for -->
 ## 🔎 What I'm Looking For
 
-| | |
+| What I'm looking for | Details |
 |---|---|
 | **Role** | Senior Full Stack Developer / Senior Software Engineer |
 | **Stack** | Angular, Node.js, Express.js, TypeScript, PostgreSQL (also happy to work with React / Next.js) |
 | **Location** | Bengaluru, open to hybrid / remote |
-| **Availability** | Serving notice period, available from **December, 2026** |
-| **Best way to reach me** | [LinkedIn](https://www.linkedin.com/in/maheshchandra10/) or maheshchandra7378@gmail.com |
+| **Availability** | Serving notice period, available from **December 2026** |
+| **Contact** | [LinkedIn](https://www.linkedin.com/in/maheshchandra10/) or maheshchandra7378@gmail.com |
 
 ---
 
