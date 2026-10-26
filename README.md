@@ -9,11 +9,6 @@
 [![Linkedin](https://img.shields.io/badge/-maheshchandra10-0A66C2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+Cg==)](https://www.linkedin.com/in/maheshchandra10/)
 [![Gmail](https://img.shields.io/badge/-maheshchandra7378@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maheshchandra7378@gmail.com)
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-2ea44f?style=flat)
-![Available from](https://img.shields.io/badge/Available%20from-December%202026-orange?style=flat)
-
-🔎 **Open to new opportunities** · Senior Full Stack Developer (Angular / Node.js / TypeScript / PostgreSQL) · Bengaluru, hybrid / remote
-
 </div>
 
 ---
@@ -26,19 +21,6 @@ I'm a **Senior Full Stack Developer at Accenture** (Bengaluru, India) with 6 yea
 - 🏦 Building and maintaining high-traffic banking workflows (APIs, UI and CI/CD)
 - 🧑‍🏫 Mentoring developers and reviewing code in Agile teams
 - 🌱 Currently learning **React, Next.js and AWS**
-
----
-
-<!-- Looking for -->
-## 🔎 What I'm Looking For
-
-| What I'm looking for | Details |
-|---|---|
-| **Role** | Senior Full Stack Developer / Senior Software Engineer |
-| **Stack** | Angular, Node.js, Express.js, TypeScript, PostgreSQL (also happy to work with React / Next.js) |
-| **Location** | Bengaluru, open to hybrid / remote |
-| **Availability** | Serving notice period, available from **December 2026** |
-| **Contact** | [LinkedIn](https://www.linkedin.com/in/maheshchandra10/) or maheshchandra7378@gmail.com |
 
 ---
 
